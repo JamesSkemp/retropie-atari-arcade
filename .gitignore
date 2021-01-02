@@ -1,0 +1,12 @@
+# directories
+configs/all/emulationstation/downloaded_images/
+configs/all/emulationstation/downloaded_media/
+configs/all/emulationstation/gamelists/
+configs/all/emulationstation/tmp/
+configs/all/retroarch/assets/xmb/
+configs/all/skyscraper/cache/
+# files
+configs/all/content_history.lpl
+configs/all/emulationstation/es_log.txt
+configs/all/emulationstation/es_log.txt.bak
+configs/all/emulationstation/es_temporaryinput.cfg
